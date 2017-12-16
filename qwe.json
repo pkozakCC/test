@@ -1,0 +1,5 @@
+{data: [            {make: "Mazda", model: "MX-5", trim: "SkyFreedom", promoted: true},
+            {make: "Subaru", model: "Impreza", trim: "GT", promoted: false},
+            {make: "Suzuki", model: "V-Strom", trim: "DL650", promoted: true},
+            {make: "Toyota", model: "GT-86", trim: "", promoted: false}
+]}
